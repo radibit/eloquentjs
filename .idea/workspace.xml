@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbd031fa-082f-4181-bad9-aa9b42024825" name="Default" comment="" />
+    <ignored path="eloquentjs.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="eloquentjs" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="flattening.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/higher_order_funcitons/flattening.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="29" selection-start="363" selection-end="363" vertical-scroll-proportion="0.4375" vertical-offset="0" max-vertical-offset="480">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/higher_order_funcitons/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="32" selection-start="478" selection-end="478" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="480">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/program_structure/FizzBuzz.js" />
+        <option value="$PROJECT_DIR$/program_structure/index.html" />
+        <option value="$PROJECT_DIR$/program_structure/loopingTriangle.js" />
+        <option value="$PROJECT_DIR$/program_structure/fizzBuzz.js" />
+        <option value="$PROJECT_DIR$/program_structure/chessBoard.js" />
+        <option value="$PROJECT_DIR$/functions/minimum.js" />
+        <option value="$PROJECT_DIR$/functions/recursion.js" />
+        <option value="$PROJECT_DIR$/functions/beanCounting.js" />
+        <option value="$PROJECT_DIR$/functions/index.html" />
+        <option value="$PROJECT_DIR$/data_structures/reverseAnArray.js" />
+        <option value="$PROJECT_DIR$/data_structures/list.js" />
+        <option value="$PROJECT_DIR$/data_structures/deepComparison.js" />
+        <option value="$PROJECT_DIR$/data_structures/theSumOfARange.js" />
+        <option value="$PROJECT_DIR$/data_structures/temp.js" />
+        <option value="$PROJECT_DIR$/data_structures/index.html" />
+        <option value="$PROJECT_DIR$/higher_order_funcitons/index.html" />
+        <option value="$PROJECT_DIR$/higher_order_funcitons/flattening.js" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="874" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eloquentjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eloquentjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eloquentjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="program_structure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eloquentjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eloquentjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="higher_order_funcitons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eloquentjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eloquentjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="functions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eloquentjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eloquentjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data_structures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="reference.idesettings.debugger.javascript" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/higher_order_funcitons" />
+      <recent name="$PROJECT_DIR$/data_structures" />
+      <recent name="$PROJECT_DIR$/functions" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="AppEnginePhpConfigurationType" factoryName="App Engine for PHP">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbd031fa-082f-4181-bad9-aa9b42024825" name="Default" comment="" />
+      <created>1410939382395</created>
+      <updated>1410939382395</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="874" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23390558" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3994709" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3994709" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3994709" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3994709" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2639485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/higher_order_funcitons/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="32" selection-start="478" selection-end="478" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/higher_order_funcitons/flattening.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/higher_order_funcitons/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="32" selection-start="478" selection-end="478" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/higher_order_funcitons/flattening.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/higher_order_funcitons/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="32" selection-start="478" selection-end="478" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="29" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/higher_order_funcitons/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="7" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/higher_order_funcitons/flattening.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="1" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/temp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="5" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/theSumOfARange.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="25" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="960" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/reverseAnArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="20" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="29" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/higher_order_funcitons/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="7" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/higher_order_funcitons/flattening.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/temp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="5" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/theSumOfARange.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="25" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="960" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/reverseAnArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="20" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="14" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="525" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/temp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="5" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/theSumOfARange.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="25" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="960" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/reverseAnArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="20" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="21" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/temp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="5" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/theSumOfARange.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="0" selection-start="1017" selection-end="1055" vertical-scroll-proportion="0.0" vertical-offset="855" max-vertical-offset="960" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/reverseAnArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="20" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="34" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/theSumOfARange.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="31" selection-start="526" selection-end="526" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="960" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/reverseAnArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="3" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="34" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/theSumOfARange.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="3" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="35" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/reverseAnArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="3" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program_structure/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="22" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="675" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program_structure/chessBoard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="19" selection-start="521" selection-end="521" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../gamedev/js13k/2EL/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="16" selection-start="150" selection-end="1173" vertical-scroll-proportion="-23.75" vertical-offset="0" max-vertical-offset="870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program_structure/loopingTriangle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program_structure/fizzBuzz.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="34" selection-start="417" selection-end="417" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program_structure/chessBoard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="19" selection-start="521" selection-end="521" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program_structure/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="22" selection-start="387" selection-end="387" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="675" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/beanCounting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="32" selection-start="284" selection-end="284" vertical-scroll-proportion="0.30821916" vertical-offset="0" max-vertical-offset="730" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/minimum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="15" selection-start="82" selection-end="82" vertical-scroll-proportion="0.061643835" vertical-offset="0" max-vertical-offset="730" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="20" selection-start="50" selection-end="50" vertical-scroll-proportion="0.063739374" vertical-offset="0" max-vertical-offset="706" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/deepComparison.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="24" selection-start="438" selection-end="438" vertical-scroll-proportion="0.47260273" vertical-offset="0" max-vertical-offset="730" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="15" selection-start="523" selection-end="523" vertical-scroll-proportion="0.5479452" vertical-offset="95" max-vertical-offset="825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/reverseAnArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="20" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/theSumOfARange.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="25" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="960" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/temp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="5" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/recursion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="6" selection-start="260" selection-end="260" vertical-scroll-proportion="0.32876712" vertical-offset="0" max-vertical-offset="730" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="3" selection-start="1768" selection-end="1768" vertical-scroll-proportion="0.6" vertical-offset="1092" max-vertical-offset="2865" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="29" selection-start="415" selection-end="415" vertical-scroll-proportion="0.44617563" vertical-offset="0" max-vertical-offset="706" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/higher_order_funcitons/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="32" selection-start="478" selection-end="478" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/higher_order_funcitons/flattening.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="29" selection-start="363" selection-end="363" vertical-scroll-proportion="0.4375" vertical-offset="0" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
