@@ -22,6 +22,7 @@ function ageDiff(el) {
   return el.born - byName[el.mother].born;
 }
 
+console.log("---------ex2----------");
+
 console.log('Average age difference between mothers and children is ' + average(ancestry.filter(mother).map(ageDiff)));
 
-console.log("---------------------");

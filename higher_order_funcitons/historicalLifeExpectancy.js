@@ -18,6 +18,8 @@ ancestry.forEach(function(person) {
   group[currentCentury].push(person.died - person.born);
 });
 
+console.log("---------ex3----------");
+
 for (var century in group) {
   if (group.hasOwnProperty(century)) {
     console.log(century + ': ' + average(group[century]).toFixed(1));
@@ -25,5 +27,3 @@ for (var century in group) {
 }
 
 //console.log(group);
-
-console.log("---------------------");
