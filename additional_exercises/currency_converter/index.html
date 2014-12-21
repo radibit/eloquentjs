@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Currency Converter</title>
+        <!-- >> STYLES -->
+        <link rel="stylesheet" href="css/main.css" />
+        <!-- STYLES << -->
+    </head>
+    <body>
+        <header class="app__header wrap">
+            <h1>Currency Converter</h1>
+        </header>
+        <div class="app__main wrap">
+            <form class="converter">
+                <div class="result centered">
+                    <p>
+                        <span class="display-qty-from">1</span>
+                        <span class="display-c-from">Euro</span>
+                        equals
+                    </p>
+                    <p>
+                        <span class="display-qty-to">1.2226</span>
+                        <span class="display-c-to">US Dollars</span>
+                    </p>
+                </div>
+                <div class="form-group centered">
+                    <label for="currency-qty"></label>
+                    <input type="number" id="currency-qty" name="currency-qty" class="c-qty" value="1" />
+                </div>
+                <div class="form-group clear">
+                    <label for="currency-from">From</label>
+                    <select name="currency-from" id="currency-from">
+                        <option value="EUR">EUR</option>
+                        <option value="USD">USD</option>
+                        <option value="JPY">JPY</option>
+                    </select>
+                </div>
+                <div class="form-group clear">
+                    <label for="currency-to">To</label>
+                    <select name="currency-to" id="currency-to">
+                        <option value="USD">USD</option>
+                        <option value="EUR">EUR</option>
+                        <option value="JPY">JPY</option>
+                    </select>
+                </div>
+                <div class="form-group centered">
+                    <button type="submit" class="convert-btn">Convert</button>
+                </div>
+
+            </form>
+        </div>
+        <!-- >> SCRIPTS -->
+        <script src="js/jquery-1.11.2.min.js"></script>
+        <script src="js/money.min.js"></script>
+        <script src="js/currencyConverter.js"></script>
+        <!-- SCRIPTS << -->
+    </body>
+</html>
