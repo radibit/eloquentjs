@@ -361,18 +361,20 @@
    */
   function SmartPlantEater() {
     this.energy = 20;
-    this.lastEat = 0;
+    this.direction = randomElement(directionNames);
   }
   SmartPlantEater.prototype.act = function (context) {
     var space = context.find(" ");
-    if (this.energy > 70 && space)
+    if (this.energy > 80 && space)
       return {type: "reproduce", direction: space};
     var plant = context.find("*");
-    if (plant && this.energy < 65) {
+    if (plant && this.energy < 70) {
       return {type: "eat", direction: plant};
     }
-    if (space)
-      return {type: "move", direction: space};
+    if (context.look(this.direction) !== " ") {
+      this.direction =  context.find(" ") || "s";
+    }
+    return {type: "move", direction: this.direction};
   };
 
   // Result
