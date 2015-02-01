@@ -360,7 +360,7 @@
    * Exercise Artificial stupidity
    */
   function SmartPlantEater() {
-    this.energy = 20;
+    this.energy = 30;
     this.direction = randomElement(directionNames);
   }
   SmartPlantEater.prototype.act = function (context) {
@@ -377,21 +377,68 @@
     return {type: "move", direction: this.direction};
   };
 
+  /**
+   * Exercise Predators
+   */
+  function Tiger() {
+    this.energy = 50;
+    this.direction = randomElement(directionNames);
+  }
+  Tiger.prototype.act = function (context) {
+    var space = context.find(" ");
+    if (this.energy > 125 && space)
+      return {type: "reproduce", direction: space};
+    var critter = context.find("O");
+
+    if (critter) {
+      return {type: "eat", direction: critter};
+    }
+    if (context.look(this.direction) !== " ") {
+      this.direction =  context.find(" ") || "s";
+    }
+    return {type: "move", direction: this.direction};
+  };
+
   // Result
+  //animateWorld(new LifelikeWorld(
+  //  ["############################",
+  //    "#####                 ######",
+  //    "##   ***                **##",
+  //    "#   *##**         **  O  *##",
+  //    "#    ***     O    ##**    *#",
+  //    "#       O         ##***    #",
+  //    "#                 ##**     #",
+  //    "#   O       #*             #",
+  //    "#*          #**       O    #",
+  //    "#***        ##**    O    **#",
+  //    "##****     ###***       *###",
+  //    "############################"],
+  //  {"#": Wall,
+  //    "O": SmartPlantEater,
+  //    "*": Plant}
+  //));
+
   animateWorld(new LifelikeWorld(
-    ["############################",
-      "#####                 ######",
-      "##   ***                **##",
-      "#   *##**         **  O  *##",
-      "#    ***     O    ##**    *#",
-      "#       O         ##***    #",
-      "#                 ##**     #",
-      "#   O       #*             #",
-      "#*          #**       O    #",
-      "#***        ##**    O    **#",
-      "##****     ###***       *###",
-      "############################"],
+    ["####################################################",
+      "#                 ####         ****              ###",
+      "#   *  @  ##                 ########       OO    ##",
+      "#   *    ##        O O                 ****       *#",
+      "#       ##*                        ##########     *#",
+      "#      ##***  *         ****                     **#",
+      "#* **  #  *  ***      #########                  **#",
+      "#* **  #      *               #   *              **#",
+      "#     ##              #   O   #  ***          ######",
+      "#*            @       #       #   *        O  #    #",
+      "#*                    #  ######                 ** #",
+      "###          ****          ***                  ** #",
+      "#       O                        @         O       #",
+      "#   *     ##  ##  ##  ##               ###      *  #",
+      "#   **         #              *       #####  O     #",
+      "##  **  O   O  #  #    ***  ***        ###      ** #",
+      "###               #   *****                    ****#",
+      "####################################################"],
     {"#": Wall,
+      "@": Tiger,
       "O": SmartPlantEater,
       "*": Plant}
   ));
